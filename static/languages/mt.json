@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hu għoli t-telf fit-trażmissjoni tal-elettriku madwar l-UE27?",
+  "subtitle": "It-telf fit-trażmissjoni varja minn 0.99% sa 3.96% madwar il-pajjiżi tal-UE27 fl-2022 u żdied bi 3.7% mill-2021 sal-2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "It-telf fit-trażmissjoni huwa l-aktar telf fit-trasport b'vultaġġ għoli mmexxi mill-fiżika. It-telf fid-distribuzzjoni huwa telf fil-kunsinna tal-aħħar mil u ħafna drabi jinkludi ineffiċjenzi tekniċi u kummerċjali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Kunsill tar-Regolaturi Ewropej tal-Enerġija (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
