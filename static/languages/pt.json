@@ -1,13 +1,11 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual é o nível de perdas na transmissão de eletricidade nos 27 países da UE?",
+  "subtitle": "As perdas de transmissão variaram entre 0,99% e 3,96% nos 27 países da UE em 2022 e aumentaram 3,7% de 2021 para 2022.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "As perdas na transmissão são, em sua maioria, perdas de transporte de alta tensão impulsionadas por princípios físicos. As perdas na distribuição referem-se às perdas na entrega do último trecho e frequentemente incluem ineficiências técnicas e comerciais.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Conselho Europeu de Reguladores de Energia (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
