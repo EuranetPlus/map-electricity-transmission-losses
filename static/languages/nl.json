@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hoog zijn de transmissieverliezen van elektriciteit in de EU27?",
+  "subtitle": "De transmissieverliezen varieerden in 2022 van 0,99% tot 3,96% in de EU27-landen en namen met 3,7% toe ten opzichte van 2021.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Transmissieverliezen zijn voornamelijk natuurkundig bepaalde verliezen bij hoogspanningstransport. Distributieverliezen zijn verliezen in de laatste fase van de levering en omvatten vaak technische en commerciële inefficiënties.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Raad van Europese energieregulatoren (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
