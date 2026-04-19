@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuria sähkönsiirtohäviöt ovat EU27-alueella?",
+  "subtitle": "Siirtohäviöt vaihtelivat EU27-maissa 0,99 prosentista 3,96 prosenttiin vuonna 2022 ja kasvoivat 3,7 prosenttia vuosina 2021–2022.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Siirtohäviöt ovat enimmäkseen fysiikasta johtuvia suurjännitteisiä siirtohäviöitä. Jakeluhäviöt ovat viimeisen mailin toimitushäviöitä ja niihin liittyy usein teknistä ja kaupallista tehottomuutta.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan energia-alan sääntelyviranomaisten neuvosto (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
