@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh hard is atá na caillteanais tarchuir leictreachais ar fud an AE27?",
+  "subtitle": "Bhí caillteanais tarchuir idir 0.99% agus 3.96% ar fud thíortha an AE27 in 2022 agus mhéadaigh siad faoi 3.7% ó 2021 go 2022.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is caillteanais iompair ardvoltais de bharr na fisice den chuid is mó iad caillteanais tarchuir. Is caillteanais seachadta ag an míle deireanach iad caillteanais dáileacháin agus is minic a bhíonn neamhéifeachtúlachtaí teicniúla agus tráchtála i gceist leo.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Comhairle Rialtóirí Fuinnimh na hEorpa (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
