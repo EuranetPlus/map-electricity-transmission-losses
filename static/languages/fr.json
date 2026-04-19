@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le niveau des pertes lors du transport d'électricité dans l'UE27 ?",
+  "subtitle": "Les pertes de transmission ont varié de 0,99 % à 3,96 % dans les 27 pays de l'UE en 2022 et ont augmenté de 3,7 % entre 2021 et 2022.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les pertes de transmission sont principalement dues à des phénomènes physiques liés au transport de la haute tension. Les pertes de distribution correspondent aux pertes de livraison du dernier kilomètre et incluent souvent des inefficacités techniques et commerciales.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Conseil des régulateurs européens de l'énergie (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
