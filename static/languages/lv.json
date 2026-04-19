@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lieli ir elektroenerģijas pārvades zudumi visā ES 27 dalībvalstīs?",
+  "subtitle": "Pārvades zudumi ES 27 valstīs 2022. gadā svārstījās no 0,99 % līdz 3,96 % un no 2021. līdz 2022. gadam palielinājās par 3,7 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Pārvades zudumi lielākoties ir fizikas izraisīti augstsprieguma transporta zudumi. Sadales zudumi ir pēdējās piegādes jūdzes zudumi un bieži vien ietver tehnisku un komerciālu neefektivitāti.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Enerģētikas regulatoru padome (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
