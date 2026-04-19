@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suured on elektrienergia ülekandekaod EL 27-s?",
+  "subtitle": "Ülekandekadud olid EL 27 riikides 2022. aastal vahemikus 0,99% kuni 3,96% ja suurenesid aastatel 2021–2022 3,7%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Ülekandekaod on enamasti füüsikalistest teguritest tingitud kõrgepinge transpordikaod. Jaotuskaod on viimase miili tarnekaod ja hõlmavad sageli tehnilist ja ärilist ebatõhusust.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Energiaregulaatorite Nõukogu (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
