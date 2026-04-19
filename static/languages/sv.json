@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur höga är förlusterna vid elöverföring i EU27?",
+  "subtitle": "Överföringsförlusterna varierade från 0,99 % till 3,96 % i EU27-länderna under 2022 och ökade med 3,7 % från 2021 till 2022.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Transmissionsförluster är mestadels fysikdrivna förluster vid högspänningstransport. Distributionsförluster är förluster vid leverans i sista milen och inkluderar ofta teknisk och kommersiell ineffektivitet.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska energitillsynsmyndigheternas råd (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
