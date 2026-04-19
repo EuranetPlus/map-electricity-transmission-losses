@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki su gubici električne energije pri prijenosu u EU27?",
+  "subtitle": "Gubici pri prijenosu kretali su se od 0,99% do 3,96% u zemljama EU27 u 2022. godini i povećali su se za 3,7% od 2021. do 2022. godine.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Gubici pri prijenosu uglavnom su fizikalno uvjetovani gubici pri visokonaponskom transportu. Gubici pri distribuciji su gubici u isporuci na krajnjoj liniji i često uključuju tehničke i komercijalne neučinkovitosti.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Vijeće europskih energetskih regulatora (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
