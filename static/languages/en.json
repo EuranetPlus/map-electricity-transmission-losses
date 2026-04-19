@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How high are electricity transmission losses across the EU27?",
+  "subtitle": "Transmission losses ranged from 0.99% to 3.96% across EU27 countries in 2022 and increased by 3.7% from 2021 to 2022.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Transmission losses are mostly physics-driven high-voltage transport losses. Distribution losses are last-mile delivery losses and often include technical and commercial inefficiencies.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Council of European Energy Regulators (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
