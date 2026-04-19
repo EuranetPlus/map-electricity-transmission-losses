@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mari sunt pierderile de transport al energiei electrice în UE-27?",
+  "subtitle": "Pierderile de transmisie au variat între 0,99% și 3,96% în țările UE-27 în 2022 și au crescut cu 3,7% între 2021 și 2022.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Pierderile de transmisie sunt în mare parte pierderi de transport de înaltă tensiune determinate de fizică. Pierderile de distribuție sunt pierderi de livrare pe ultimul kilometru și includ adesea ineficiențe tehnice și comerciale.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Consiliul Autorităților Europene de Reglementare în Domeniul Energiei (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
