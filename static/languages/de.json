@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch sind die Stromübertragungsverluste in der EU27?",
+  "subtitle": "Die Übertragungsverluste lagen in den EU27-Ländern im Jahr 2022 zwischen 0,99 % und 3,96 % und stiegen von 2021 bis 2022 um 3,7 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Übertragungsverluste sind hauptsächlich physikalisch bedingte Hochspannungstransportverluste. Verteilungsverluste sind Verluste auf der letzten Meile und beinhalten oft technische und wirtschaftliche Ineffizienzen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Rat der europäischen Energieregulierungsbehörden (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
